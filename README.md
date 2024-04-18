@@ -1,4 +1,4 @@
-👋 Olá, sou @JulianoPPires no GitHub.
+👋 Olá, sou Juliano Puiati Pires.
 
 👀 Tenho interesse em desenvolver soluções e explorar novas tecnologias.
 
